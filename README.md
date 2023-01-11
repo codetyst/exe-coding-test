@@ -8,6 +8,6 @@ cd backend <br/>
 composer install <br/>
 cp .env.example .env <br/>
 docker-compose up -d --build<br/>
-cd ..\frontend\ <br/>
+cd ..\frontend <br/>
 npm install <br/>
 npm run serve
